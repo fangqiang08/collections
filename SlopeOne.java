@@ -12,7 +12,7 @@ import java.util.Set;
 /**
  * Description :implement the slopeOne algorithm 
  * 
- * @author fang 2015Äê5ÔÂ3ÈÕ
+ * @author fang 2015.05.03
  * 
  */
 
