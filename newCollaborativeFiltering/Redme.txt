@@ -1,0 +1,2 @@
+a simple implementation of the paper " the implementation of the paper "A new collaborative filtering approach for increasing the aggregate diversity of recommender systems"
+"
