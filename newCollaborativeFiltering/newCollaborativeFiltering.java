@@ -1,7 +1,6 @@
 ﻿/**
  * 
  */
-package com.fangqiang.myutils;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -23,7 +22,7 @@ import java.util.Set;
 import java.util.TreeMap;
 
 /**
- * Description :
+ * Description :the implementation of the paper "A new collaborative filtering approach for increasing the aggregate diversity of recommender systems"
  *
  * @author fang
  * 2015年5月5日
